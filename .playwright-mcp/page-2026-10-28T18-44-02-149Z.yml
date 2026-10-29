@@ -1,0 +1,342 @@
+- generic [ref=e3]:
+  - complementary "Announcement" [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]: 6840+ Job Posting Available
+        - generic [ref=e11]: "-"
+        - generic [ref=e12]: Recruiters prefer to hire Micron Info Tech Students
+        - generic [ref=e13]: "- Join Micron Info Tech Now"
+      - generic [ref=e14]:
+        - button "SELECT COURSE" [ref=e15] [cursor=pointer]
+        - button "Close Announcement Banner" [ref=e19] [cursor=pointer]
+  - banner [ref=e23]:
+    - generic [ref=e25]:
+      - link "MICRON INFO TECH LEARN SKILLS • GET PLACED" [ref=e26] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e33]:
+          - generic [ref=e34]: MICRON INFO TECH
+          - generic [ref=e35]: LEARN SKILLS • GET PLACED
+      - navigation [ref=e36]:
+        - link "Job Oriented Courses" [ref=e37] [cursor=pointer]:
+          - /url: /#courses
+        - link "Student Reviews" [ref=e38] [cursor=pointer]:
+          - /url: /student-reviews
+        - link "Placements" [ref=e39] [cursor=pointer]:
+          - /url: /students-placements
+        - link "Blog" [ref=e40] [cursor=pointer]:
+          - /url: /blog
+        - link "Contact" [ref=e41] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e42]:
+        - button "Search" [ref=e43] [cursor=pointer]
+        - 'link "Call: 7676765421" [ref=e47] [cursor=pointer]':
+          - /url: tel:7676765421
+  - main [ref=e51]:
+    - generic [ref=e53]:
+      - generic [ref=e54]: ENTERPRISE LEARNING & UPSKILLING
+      - heading "Trusted by 1,279+ Corporations, Brands & MNCs" [level=1] [ref=e59]
+      - paragraph [ref=e60]: "There's a serious reason why 1,000+ brands and multinational corporations partner with MicronInfoTech: our measured learning performance, customized sandbox labs, and guaranteed team upskilling outcomes."
+      - generic [ref=e61]:
+        - link "Request Corporate Training Proposal" [ref=e62] [cursor=pointer]:
+          - /url: "#rfp"
+        - link "View Enterprise Case Studies" [ref=e63] [cursor=pointer]:
+          - /url: /corporate-training/case-studies
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - text: Proven Track Record
+        - heading "Customized Enterprise Training Delivered" [level=2] [ref=e71]
+        - paragraph [ref=e72]: Explore how we have engineered targeted technical training programs across Fortune 500 enterprises and defense departments.
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - img "Accenture" [ref=e78]
+              - generic [ref=e79]: Enterprise Cohort
+            - generic [ref=e80]: Data Science & GenAI Course
+            - paragraph [ref=e81]: Upskilling 450+ software engineers in enterprise predictive modeling, Python ML stacks, and LLM implementations.
+          - generic [ref=e82]:
+            - generic [ref=e83]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e87] [cursor=pointer]
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - generic [ref=e90]:
+              - img "Ministry of Defence" [ref=e92]
+              - generic [ref=e93]: Govt Project
+            - generic [ref=e94]: Executive Soft Skills & Cyber Security
+            - paragraph [ref=e95]: Specialized training program for senior defense officials focusing on secure communication and leadership.
+          - generic [ref=e96]:
+            - generic [ref=e97]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e101] [cursor=pointer]
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - img "Canara Bank" [ref=e106]
+              - generic [ref=e107]: Banking & FinTech
+            - generic [ref=e108]: Oracle SQL, PL/SQL & High-Volume DB
+            - paragraph [ref=e109]: Core banking database performance tuning, stored procedure optimization, and high availability systems.
+          - generic [ref=e110]:
+            - generic [ref=e111]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e115] [cursor=pointer]
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - generic [ref=e118]:
+              - img "HP (Hewlett-Packard)" [ref=e120]
+              - generic [ref=e121]: Analytics
+            - generic [ref=e122]: Data Analytics & Enterprise Power BI
+            - paragraph [ref=e123]: Global business analytics training for supply chain analysts and regional operations leaders.
+          - generic [ref=e124]:
+            - generic [ref=e125]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e129] [cursor=pointer]
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - img "Maruti Suzuki" [ref=e134]
+              - generic [ref=e135]: Automotive AI
+            - generic [ref=e136]: Data Science & Advanced AI Systems
+            - paragraph [ref=e137]: Automotive telemetry analytics, computer vision defect detection, and predictive maintenance algorithms.
+          - generic [ref=e138]:
+            - generic [ref=e139]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e143] [cursor=pointer]
+        - generic [ref=e144]:
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - img "Honeywell" [ref=e148]
+              - generic [ref=e149]: Cloud Data
+            - generic [ref=e150]: Microsoft Azure & Azure Databricks
+            - paragraph [ref=e151]: Cloud-native data lakehouse architecture, ETL streaming with Spark, and IoT data processing.
+          - generic [ref=e152]:
+            - generic [ref=e153]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e157] [cursor=pointer]
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - generic [ref=e160]:
+              - img "Victoria's Secret" [ref=e162]
+              - generic [ref=e163]: Retail & Ecommerce
+            - generic [ref=e164]: Full Stack Web Development
+            - paragraph [ref=e165]: Modernizing ecommerce web applications with Next.js, React, Node microservices, and GraphQL APIs.
+          - generic [ref=e166]:
+            - generic [ref=e167]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e171] [cursor=pointer]
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - img "Altimetrik" [ref=e176]
+              - generic [ref=e177]: Cloud BigData
+            - generic [ref=e178]: TIBCO, GCP & Cloud BigData
+            - paragraph [ref=e179]: Transitioning lateral engineers to Google Cloud Platform data engineering pipelines and AEM.
+          - generic [ref=e180]:
+            - generic [ref=e181]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e185] [cursor=pointer]
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - img "Emerson" [ref=e190]
+              - generic [ref=e191]: Industrial Automation
+            - generic [ref=e192]: Azure Integration Services & Databricks
+            - paragraph [ref=e193]: Enterprise application integration with Azure Logic Apps, Event Hubs, and distributed data lakes.
+          - generic [ref=e194]:
+            - generic [ref=e195]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e199] [cursor=pointer]
+        - generic [ref=e200]:
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - img "Hexaware" [ref=e204]
+              - generic [ref=e205]: Campus Enablement
+            - generic [ref=e206]: Software Testing SDET for Campus Hires
+            - paragraph [ref=e207]: 3-month bootcamp transforming 320 campus hires into certified Selenium and RestAssured automation engineers.
+          - generic [ref=e208]:
+            - generic [ref=e209]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e213] [cursor=pointer]
+        - generic [ref=e214]:
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - img "IMS Hospital" [ref=e218]
+              - generic [ref=e219]: Healthcare CRM
+            - generic [ref=e220]: Salesforce Health Cloud & Marketing Cloud
+            - paragraph [ref=e221]: Patient relationship management, HIPAA-compliant patient communication funnels, and reporting.
+          - generic [ref=e222]:
+            - generic [ref=e223]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e227] [cursor=pointer]
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e230]:
+              - img "Mouri Tech" [ref=e232]
+              - generic [ref=e233]: MuleSoft Certified
+            - generic [ref=e234]: Salesforce Admin, Developer & MuleSoft
+            - paragraph [ref=e235]: Integration architecture connecting legacy ERPs with Salesforce Cloud using MuleSoft Anypoint.
+          - generic [ref=e236]:
+            - generic [ref=e237]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e241] [cursor=pointer]
+        - generic [ref=e242]:
+          - generic [ref=e243]:
+            - generic [ref=e244]:
+              - img "Mphasis" [ref=e246]
+              - generic [ref=e247]: DevOps & Cloud
+            - generic [ref=e248]: DevOps, Docker & Kubernetes Orchestration
+            - paragraph [ref=e249]: Production containerization, GitOps deployment with ArgoCD, and site reliability engineering.
+          - generic [ref=e250]:
+            - generic [ref=e251]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e255] [cursor=pointer]
+        - generic [ref=e256]:
+          - generic [ref=e257]:
+            - generic [ref=e258]:
+              - img "Mu Sigma" [ref=e260]
+              - generic [ref=e261]: Big Data Analytics
+            - generic [ref=e262]: Python Data Science & Technical MySQL
+            - paragraph [ref=e263]: Statistical modeling foundations, Pandas data manipulation, and high-performance SQL query design.
+          - generic [ref=e264]:
+            - generic [ref=e265]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e269] [cursor=pointer]
+        - generic [ref=e270]:
+          - generic [ref=e271]:
+            - generic [ref=e272]:
+              - img "Press Ganey" [ref=e274]
+              - generic [ref=e275]: AWS Certified
+            - generic [ref=e276]: Amazon Web Services (AWS) Architecture
+            - paragraph [ref=e277]: Multi-tenant cloud infrastructure, HIPAA-compliant security perimeters, and automated CI/CD.
+          - generic [ref=e278]:
+            - generic [ref=e279]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e283] [cursor=pointer]
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - generic [ref=e286]:
+              - img "Qantile" [ref=e288]
+              - generic [ref=e289]: Microservices
+            - generic [ref=e290]: Full Stack Java, Apache Kafka & React
+            - paragraph [ref=e291]: Event-driven distributed systems, microservices with Spring Boot, and reactive frontends.
+          - generic [ref=e292]:
+            - generic [ref=e293]: Completed Cohort
+            - button "Enquire Syllabus →" [ref=e297] [cursor=pointer]
+    - generic [ref=e300]:
+      - generic [ref=e301]:
+        - heading "Customized Hands-on Sandbox Labs" [level=3] [ref=e304]
+        - paragraph [ref=e305]: We create isolated cloud lab sandboxes tailored to your company's actual tech stack, database schemas, and microservice dependencies.
+      - generic [ref=e306]:
+        - heading "Measurable Productivity Gain" [level=3] [ref=e309]
+        - paragraph [ref=e310]: Post-training evaluations, project code audits, and milestone benchmarks that guarantee at least 35-40% operational efficiency improvement.
+      - generic [ref=e311]:
+        - heading "Flexible Delivery Formats" [level=3] [ref=e315]
+        - paragraph [ref=e316]: On-site instructor delivery at your corporate headquarters, virtual live instructor-led bootcamps, or hybrid weekend upskilling.
+    - generic [ref=e319]:
+      - generic [ref=e320]:
+        - text: Corporate Inquiries
+        - heading "Request a Corporate Proposal & Syllabus" [level=2] [ref=e321]
+        - paragraph [ref=e322]: Tell us about your team size, target skills, and schedule constraints. Our enterprise solutions director will formulate a customized training roadmap.
+      - generic [ref=e323]:
+        - generic [ref=e324]:
+          - generic [ref=e325]:
+            - generic [ref=e326]: Company / Organization *
+            - textbox "eg. Wipro Limited" [ref=e327]
+          - generic [ref=e328]:
+            - generic [ref=e329]: Contact Person Name *
+            - textbox "eg. Priya Menon (L&D Lead)" [ref=e330]
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - generic [ref=e333]: Corporate Official Email *
+            - textbox "priya.m@wipro.com" [ref=e334]
+          - generic [ref=e335]:
+            - generic [ref=e336]: Direct Phone Number *
+            - textbox "+91 9876543210" [ref=e337]
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - generic [ref=e340]: Estimated Cohort Size
+            - combobox [ref=e341]:
+              - option "5 - 10 Employees"
+              - option "10 - 30 Employees" [selected]
+              - option "30 - 100 Employees"
+              - option "100+ Campus Recruits"
+          - generic [ref=e342]:
+            - generic [ref=e343]: Training Domain
+            - combobox [ref=e344]:
+              - option "Cloud & DevOps (AWS / Azure / K8s)" [selected]
+              - option "Data Science & Generative AI"
+              - option "Full Stack Development (Java / Python / React)"
+              - option "Software Testing & SDET Automation"
+              - option "Salesforce & ERP Systems"
+              - option "Cyber Security & Networking"
+        - generic [ref=e345]:
+          - generic [ref=e346]: Project Context & Specific Goals
+          - textbox "Outline target timeline, specific tools or frameworks, and whether on-site or online training is preferred..." [ref=e347]
+        - button "Submit RFP & Request Proposal" [ref=e348] [cursor=pointer]
+  - contentinfo [ref=e353]:
+    - generic [ref=e354]:
+      - generic [ref=e355]:
+        - generic [ref=e356]:
+          - heading "FOR STUDENTS" [level=4] [ref=e357]
+          - list [ref=e358]:
+            - listitem [ref=e359]:
+              - link "Job Oriented Courses" [ref=e360] [cursor=pointer]:
+                - /url: /#courses
+            - listitem [ref=e361]:
+              - link "Reviews & Ratings (4.9★)" [ref=e362] [cursor=pointer]:
+                - /url: /student-reviews
+            - listitem [ref=e363]:
+              - link "Placement Statistics" [ref=e364] [cursor=pointer]:
+                - /url: /students-placements
+        - generic [ref=e365]:
+          - heading "QUICK LINKS" [level=4] [ref=e366]
+          - list [ref=e367]:
+            - listitem [ref=e368]:
+              - link "Our Center & Map" [ref=e369] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e370]:
+              - link "Help & Support Desk" [ref=e371] [cursor=pointer]:
+                - /url: /support
+            - listitem [ref=e372]:
+              - link "Tech Blog & Articles" [ref=e373] [cursor=pointer]:
+                - /url: /blog
+        - generic [ref=e374]:
+          - heading "FOR BUSINESS" [level=4] [ref=e375]
+          - list [ref=e376]:
+            - listitem [ref=e377]:
+              - link "Corporate Training Solutions" [ref=e378] [cursor=pointer]:
+                - /url: /corporate-training
+            - listitem [ref=e379]:
+              - link "Enterprise Case Studies" [ref=e380] [cursor=pointer]:
+                - /url: /corporate-training/case-studies
+            - listitem [ref=e381]:
+              - link "Post Free Job (Hire Talent)" [ref=e382] [cursor=pointer]:
+                - /url: /post-free-jobs-hiring-employees
+            - listitem [ref=e383]:
+              - link "Become a Franchise" [ref=e384] [cursor=pointer]:
+                - /url: /franchise
+            - listitem [ref=e385]:
+              - link "Become a Trainer / Instructor" [ref=e386] [cursor=pointer]:
+                - /url: /become-a-trainer
+        - generic [ref=e387]:
+          - heading "OUR COMPANY" [level=4] [ref=e388]
+          - list [ref=e389]:
+            - listitem [ref=e390]:
+              - link "About Us & Leadership" [ref=e391] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e392]:
+              - link "Contact Us" [ref=e393] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e394]:
+              - link "Privacy Policy" [ref=e395] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=e396]:
+              - link "Terms & Conditions" [ref=e397] [cursor=pointer]:
+                - /url: /legal/terms-conditions
+            - listitem [ref=e398]:
+              - link "Cookie Policy" [ref=e399] [cursor=pointer]:
+                - /url: /legal/cookie-policy
+            - listitem [ref=e400]:
+              - link "Refund Policy" [ref=e401] [cursor=pointer]:
+                - /url: /legal/refund-policy
+            - listitem [ref=e402]:
+              - link "GDPR Policy" [ref=e403] [cursor=pointer]:
+                - /url: /legal/gdpr-policy
+        - generic [ref=e404]:
+          - heading "FOLLOW US" [level=4] [ref=e405]
+          - paragraph [ref=e406]: Get Latest Updates, Placement Drives & Job Openings directly in your inbox.
+          - generic [ref=e407]:
+            - textbox "Enter your email address..." [ref=e409]
+            - button "Join Newsletter" [ref=e410] [cursor=pointer]
+          - generic [ref=e415]:
+            - generic [ref=e416]: "Call: 7676765421"
+            - generic [ref=e420]: info@microninfotech.com
+            - generic [ref=e425]: BTM, Marathahalli, Jayanagar, Rajajinagar, Kalyan Nagar & Chennai
+      - generic [ref=e430]:
+        - paragraph [ref=e431]: "© 2026 MicronInfoTech. All Rights Reserved. India's #1 Rated Software Training Institute."
+        - button "Back to top" [ref=e432] [cursor=pointer]

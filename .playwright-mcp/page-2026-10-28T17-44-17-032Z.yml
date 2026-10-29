@@ -1,0 +1,210 @@
+- generic [ref=e3]:
+  - complementary "Announcement" [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e10]: 6840+ Job Posting Available
+        - generic [ref=e11]: "-"
+        - generic [ref=e12]: Recruiters prefer to hire Micron Info Tech Students
+        - generic [ref=e13]: "- Join Micron Info Tech Now"
+      - generic [ref=e14]:
+        - button "SELECT COURSE" [ref=e15] [cursor=pointer]
+        - button "Close Announcement Banner" [ref=e19] [cursor=pointer]
+  - banner [ref=e23]:
+    - generic [ref=e25]:
+      - link "MICRON INFO TECH LEARN SKILLS • GET PLACED" [ref=e26] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e33]:
+          - generic [ref=e34]: MICRON INFO TECH
+          - generic [ref=e35]: LEARN SKILLS • GET PLACED
+      - navigation [ref=e36]:
+        - link "Job Oriented Courses" [ref=e37] [cursor=pointer]:
+          - /url: /#courses
+        - link "Student Reviews" [ref=e38] [cursor=pointer]:
+          - /url: /student-reviews
+        - link "Placements" [ref=e39] [cursor=pointer]:
+          - /url: /students-placements
+        - link "Blog" [ref=e40] [cursor=pointer]:
+          - /url: /blog
+        - link "Contact" [ref=e41] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e42]:
+        - button "Search" [ref=e43] [cursor=pointer]
+        - 'link "Call: 7676765421" [ref=e47] [cursor=pointer]':
+          - /url: tel:7676765421
+  - main [ref=e51]:
+    - generic [ref=e53]:
+      - generic [ref=e54]: 14+ YEARS OF EXCELLENCE
+      - heading "Contact Us & Our Branches" [level=1] [ref=e59]
+      - paragraph [ref=e60]:
+        - text: Join over
+        - strong [ref=e61]: 12,590+ students
+        - text: who have chosen MicronInfoTech for their best career placement. Visit us at any of our 6 learning centers across Bangalore and Chennai, or connect directly with our academic advisors.
+    - generic [ref=e64]:
+      - generic [ref=e66]:
+        - generic [ref=e67]: Get in Touch
+        - heading "Send Us an Inquiry" [level=3] [ref=e71]
+        - paragraph [ref=e72]: Fill out the form below. Our senior counselor will call you within 15 minutes to discuss syllabus, fees, and batch schedules.
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75]: Full Name *
+            - textbox "eg. Rahul Sharma" [ref=e76]
+          - generic [ref=e77]:
+            - generic [ref=e78]:
+              - generic [ref=e79]: Email Address *
+              - textbox "rahul@example.com" [ref=e80]
+            - generic [ref=e81]:
+              - generic [ref=e82]: Phone Number *
+              - textbox "+91 9876543210" [ref=e83]
+          - generic [ref=e84]:
+            - generic [ref=e85]:
+              - generic [ref=e86]: Branch Preference
+              - combobox [ref=e87]:
+                - option "Gorakhpur Center (Uttar Pradesh)"
+                - option "BTM Layout (Bangalore)" [selected]
+                - option "Marathahalli (Bangalore)"
+                - option "Jayanagar (Bangalore)"
+                - option "Rajajinagar (Bangalore)"
+                - option "Kalyan Nagar (Bangalore)"
+                - option "Chennai (Velachery & OMR)"
+                - option "Live Online Classroom"
+            - generic [ref=e88]:
+              - generic [ref=e89]: Course of Interest
+              - combobox [ref=e90]:
+                - option "Data Science & Generative AI" [selected]
+                - option "Artificial Intelligence (AI)"
+                - option "AWS Cloud Solutions Architect"
+                - option "DevOps & Cloud Automation"
+                - option "SAP (FICO, MM, SD & ABAP)"
+                - option "Salesforce (Admin & Developer)"
+                - option "Python Full Stack Development"
+                - option "Data Analytics & Power BI"
+                - option "Human Resource Management (HR)"
+                - option "Cyber Security & Ethical Hacking"
+                - option "AutoCAD 2D & 3D Drafting"
+                - option "CATIA Mechanical CAD Design"
+                - option "Electrical Wiring Harness Design"
+                - option "Digital Marketing & Performance Ads"
+                - option "CCNA & Network Engineering"
+                - option "Software Testing & SDET Automation"
+          - generic [ref=e91]:
+            - generic [ref=e92]: Your Message (Optional)
+            - textbox "Ask about batch timings, fee installments, or course curriculum..." [ref=e93]
+          - button "Submit Consultation Request" [ref=e94] [cursor=pointer]
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - generic [ref=e101]: Physical Locations
+          - heading "Our Learning Center Locations" [level=2] [ref=e107]
+          - paragraph [ref=e108]: Equipped with advanced multi-screen IT labs, high-speed fiber internet, and dedicated mock interview cabins.
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e116]:
+              - heading "Gorakhpur Center on Google Maps Verified Location" [level=4] [ref=e117]:
+                - generic [ref=e118]: Gorakhpur Center on Google Maps
+                - generic [ref=e119]: Verified Location
+              - paragraph [ref=e120]: Buxipur Rd, Avas Vikas Colony, Miyan Baza, Gorakhpur, Uttar Pradesh 273001
+            - link "Open Google Maps" [ref=e121] [cursor=pointer]:
+              - /url: https://maps.google.com/?q=Buxipur+Rd,+Avas+Vikas+Colony,+Miyan+Baza,+Gorakhpur,+Uttar+Pradesh+273001
+          - iframe [ref=e128]
+        - generic [ref=e129]:
+          - generic [ref=e130]:
+            - heading "Need Instant Counselor Support?" [level=4] [ref=e131]
+            - paragraph [ref=e132]: Our admissions helpline is active Monday through Sunday from 8:00 AM to 8:30 PM.
+          - 'link "Call: 7676765421" [ref=e133] [cursor=pointer]':
+            - /url: tel:7676765421
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - generic [ref=e136]:
+        - generic [ref=e137]:
+          - heading "FOR STUDENTS" [level=4] [ref=e138]
+          - list [ref=e139]:
+            - listitem [ref=e140]:
+              - link "Job Oriented Courses" [ref=e141] [cursor=pointer]:
+                - /url: /#courses
+            - listitem [ref=e142]:
+              - link "Reviews & Ratings (4.9★)" [ref=e143] [cursor=pointer]:
+                - /url: /student-reviews
+            - listitem [ref=e144]:
+              - link "Placement Statistics" [ref=e145] [cursor=pointer]:
+                - /url: /students-placements
+            - listitem [ref=e146]:
+              - link "Degree Internships" [ref=e147] [cursor=pointer]:
+                - /url: /internship
+            - listitem [ref=e148]:
+              - link "Meet Industry Mentors" [ref=e149] [cursor=pointer]:
+                - /url: /trainer
+        - generic [ref=e150]:
+          - heading "QUICK LINKS" [level=4] [ref=e151]
+          - list [ref=e152]:
+            - listitem [ref=e153]:
+              - link "Software Courses" [ref=e154] [cursor=pointer]:
+                - /url: /#courses
+            - listitem [ref=e155]:
+              - link "Agency Services Hub" [ref=e156] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=e157]:
+              - link "Digital Marketing Agency" [ref=e158] [cursor=pointer]:
+                - /url: /services/digital-marketing-services-company-bangalore
+            - listitem [ref=e159]:
+              - link "Web Development Services" [ref=e160] [cursor=pointer]:
+                - /url: /services/web-development-services-in-india
+            - listitem [ref=e161]:
+              - link "Our 6 Centers & Map" [ref=e162] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e163]:
+              - link "Help & Support Desk" [ref=e164] [cursor=pointer]:
+                - /url: /support
+        - generic [ref=e165]:
+          - heading "FOR BUSINESS" [level=4] [ref=e166]
+          - list [ref=e167]:
+            - listitem [ref=e168]:
+              - link "Corporate Training Solutions" [ref=e169] [cursor=pointer]:
+                - /url: /corporate-training
+            - listitem [ref=e170]:
+              - link "Enterprise Case Studies" [ref=e171] [cursor=pointer]:
+                - /url: /corporate-training/case-studies
+            - listitem [ref=e172]:
+              - link "Post Free Job (Hire Talent)" [ref=e173] [cursor=pointer]:
+                - /url: /post-free-jobs-hiring-employees
+            - listitem [ref=e174]:
+              - link "Become a Franchise" [ref=e175] [cursor=pointer]:
+                - /url: /franchise
+            - listitem [ref=e176]:
+              - link "Become a Trainer / Instructor" [ref=e177] [cursor=pointer]:
+                - /url: /become-a-trainer
+        - generic [ref=e178]:
+          - heading "OUR COMPANY" [level=4] [ref=e179]
+          - list [ref=e180]:
+            - listitem [ref=e181]:
+              - link "About Us & Leadership" [ref=e182] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e183]:
+              - link "Contact Us" [ref=e184] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e185]:
+              - link "Privacy Policy" [ref=e186] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=e187]:
+              - link "Terms & Conditions" [ref=e188] [cursor=pointer]:
+                - /url: /legal/terms-conditions
+            - listitem [ref=e189]:
+              - link "Cookie Policy" [ref=e190] [cursor=pointer]:
+                - /url: /legal/cookie-policy
+            - listitem [ref=e191]:
+              - link "Refund Policy" [ref=e192] [cursor=pointer]:
+                - /url: /legal/refund-policy
+            - listitem [ref=e193]:
+              - link "GDPR Policy" [ref=e194] [cursor=pointer]:
+                - /url: /legal/gdpr-policy
+        - generic [ref=e195]:
+          - heading "FOLLOW US" [level=4] [ref=e196]
+          - paragraph [ref=e197]: Get Latest Updates, Placement Drives & Job Openings directly in your inbox.
+          - generic [ref=e198]:
+            - textbox "Enter your email address..." [ref=e200]
+            - button "Join Newsletter" [ref=e201] [cursor=pointer]
+          - generic [ref=e206]:
+            - generic [ref=e207]: "Call: 7676765421"
+            - generic [ref=e211]: info@microninfotech.com
+            - generic [ref=e216]: BTM, Marathahalli, Jayanagar, Rajajinagar, Kalyan Nagar & Chennai
+      - generic [ref=e221]:
+        - paragraph [ref=e222]: "© 2026 MicronInfoTech. All Rights Reserved. India's #1 Rated Software Training Institute."
+        - button "Back to top" [ref=e223] [cursor=pointer]

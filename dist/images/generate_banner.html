@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      background: transparent;
+      margin: 0;
+      padding: 0;
+      width: 1200px;
+      height: 1100px;
+      overflow: hidden;
+    }
+    #stage {
+      position: relative;
+      width: 1200px;
+      height: 1100px;
+    }
+    #base-img {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1200px;
+      height: 1100px;
+      display: block;
+    }
+    #text-overlay {
+      position: absolute;
+      left: 650px;
+      top: 118px;
+      width: 520px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    .brand-title {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 800;
+      font-size: 45px;
+      color: #17213C;
+      letter-spacing: -0.6px;
+      line-height: 1;
+      margin-top: 14px;
+      margin-bottom: 23px;
+    }
+    .brand-sub {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 500;
+      font-size: 22.5px;
+      color: #111827;
+      letter-spacing: -0.1px;
+      line-height: 1;
+    }
+  </style>
+</head>
+<body>
+  <div id="stage">
+    <img id="base-img" src="/images/cleaned_for_text.png" alt="Clean Base" />
+    <div id="text-overlay">
+      <div class="brand-title">MicronInfoTech</div>
+      <div class="brand-sub">Join MicronInfoTech Courses</div>
+    </div>
+  </div>
+</body>
+</html>

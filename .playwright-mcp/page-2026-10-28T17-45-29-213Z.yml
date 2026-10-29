@@ -1,0 +1,926 @@
+- generic [ref=f4e3]:
+  - complementary "Announcement" [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - generic [ref=f4e6]:
+        - generic [ref=f4e10]: 6840+ Job Posting Available
+        - generic [ref=f4e11]: "-"
+        - generic [ref=f4e12]: Recruiters prefer to hire Micron Info Tech Students
+        - generic [ref=f4e13]: "- Join Micron Info Tech Now"
+      - generic [ref=f4e14]:
+        - button "SELECT COURSE" [ref=f4e15] [cursor=pointer]
+        - button "Close Announcement Banner" [ref=f4e19] [cursor=pointer]
+  - banner [ref=f4e23]:
+    - generic [ref=f4e25]:
+      - link "MICRON INFO TECH LEARN SKILLS • GET PLACED" [ref=f4e26] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f4e33]:
+          - generic [ref=f4e34]: MICRON INFO TECH
+          - generic [ref=f4e35]: LEARN SKILLS • GET PLACED
+      - navigation [ref=f4e36]:
+        - link "Job Oriented Courses" [ref=f4e37] [cursor=pointer]:
+          - /url: /#courses
+        - link "Student Reviews" [ref=f4e38] [cursor=pointer]:
+          - /url: /student-reviews
+        - link "Placements" [ref=f4e39] [cursor=pointer]:
+          - /url: /students-placements
+        - link "Blog" [ref=f4e40] [cursor=pointer]:
+          - /url: /blog
+        - link "Contact" [ref=f4e41] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=f4e42]:
+        - button "Search" [ref=f4e43] [cursor=pointer]
+        - 'link "Call: 7676765421" [ref=f4e47] [cursor=pointer]':
+          - /url: tel:7676765421
+  - generic [ref=f4e53]:
+    - generic [ref=f4e54]:
+      - generic [ref=f4e55]:
+        - generic [ref=f4e56]: "#"
+        - generic [ref=f4e57]: Certification Training and Guaranteed Placement
+      - heading "Certification Training and Guaranteed Placement" [level=1] [ref=f4e58]
+      - paragraph [ref=f4e59]: MicronInfoTech is the India's Most Trusted and Best Software Training Institute. Your gateway from Learning Skills Practically to Getting a Job! We are here for your career growth.
+      - list [ref=f4e60]:
+        - listitem [ref=f4e61]:
+          - generic [ref=f4e65]: 10X Job Placement Rate, In relevant Industry
+        - listitem [ref=f4e66]:
+          - generic [ref=f4e70]: Experienced Trainers from Google, Microsoft, TCS, Wipro, Adobe etc
+        - listitem [ref=f4e71]:
+          - generic [ref=f4e75]: Offline Classrooms & Online Instructor Led Classes
+        - listitem [ref=f4e76]:
+          - generic [ref=f4e80]: IT or non-IT, We have the best Placement
+        - listitem [ref=f4e81]:
+          - generic [ref=f4e85]: Assessments, Resume preparation, and Mock Interviews
+      - generic [ref=f4e86]:
+        - button "Book a Free Demo" [ref=f4e87] [cursor=pointer]
+        - link "Career Support" [ref=f4e88] [cursor=pointer]:
+          - /url: /students-placements
+      - generic [ref=f4e89]:
+        - generic [ref=f4e90]:
+          - img "Student" [ref=f4e91]
+          - img "Student" [ref=f4e92]
+          - img "Student" [ref=f4e93]
+        - generic [ref=f4e94]:
+          - paragraph [ref=f4e95]: Rated 4.9 out of 5 based on 20,516 Reviews
+          - paragraph [ref=f4e96]: We are India's Rated Best Software Training Institute
+    - img "MicronInfoTech Hero Certification & Placement" [ref=f4e99]
+  - generic [ref=f4e101]:
+    - generic [ref=f4e102]:
+      - generic [ref=f4e103]: Placement Record
+      - heading "How we have placed 10,579 Students?" [level=2] [ref=f4e108]
+      - paragraph [ref=f4e109]: Students from diverse academic backgrounds successfully placed at leading tech giants and MNCs.
+      - generic [ref=f4e110]:
+        - img "Microsoft" [ref=f4e112]
+        - img "Google" [ref=f4e114]
+        - img "Deloitte" [ref=f4e116]
+        - img "Infosys" [ref=f4e118]
+        - img "Zomato" [ref=f4e120]
+        - img "Tech Mahindra" [ref=f4e122]
+    - generic [ref=f4e123]:
+      - generic [ref=f4e125]:
+        - generic [ref=f4e126]:
+          - generic [ref=f4e127]: 9 LPA
+          - img "Sanjeev Sukla" [ref=f4e130]
+          - generic [ref=f4e131]:
+            - heading "Sanjeev Sukla" [level=3] [ref=f4e132]
+            - paragraph [ref=f4e133]: AI Engineer
+          - img "TechMahindra" [ref=f4e135]
+        - generic [ref=f4e136]:
+          - generic [ref=f4e137]: 5 LPA
+          - img "Sukumar Roy" [ref=f4e140]
+          - generic [ref=f4e141]:
+            - heading "Sukumar Roy" [level=3] [ref=f4e142]
+            - paragraph [ref=f4e143]: Data Scientist
+          - img "Accenture" [ref=f4e145]
+        - generic [ref=f4e146]:
+          - generic [ref=f4e147]: 8 LPA
+          - img "Jagjith Rathode" [ref=f4e150]
+          - generic [ref=f4e151]:
+            - heading "Jagjith Rathode" [level=3] [ref=f4e152]
+            - paragraph [ref=f4e153]: Machine Learning Engineer
+          - img "Deloitte" [ref=f4e155]
+        - generic [ref=f4e156]:
+          - generic [ref=f4e157]: 4 LPA
+          - img "Lipika Shah" [ref=f4e160]
+          - generic [ref=f4e161]:
+            - heading "Lipika Shah" [level=3] [ref=f4e162]
+            - paragraph [ref=f4e163]: AI Engineer
+          - img "Infosys" [ref=f4e165]
+        - generic [ref=f4e166]:
+          - generic [ref=f4e167]: 5.2 LPA
+          - img "Pramod" [ref=f4e170]
+          - generic [ref=f4e171]:
+            - heading "Pramod" [level=3] [ref=f4e172]
+            - paragraph [ref=f4e173]: ServiceNow Developer
+          - img "Microsoft" [ref=f4e175]
+        - generic [ref=f4e176]:
+          - generic [ref=f4e177]: 5.7 LPA
+          - img "Vihaana" [ref=f4e180]
+          - generic [ref=f4e181]:
+            - heading "Vihaana" [level=3] [ref=f4e182]
+            - paragraph [ref=f4e183]: Android Developer
+          - img "Google" [ref=f4e185]
+        - generic [ref=f4e186]:
+          - generic [ref=f4e187]: 6 LPA
+          - img "Navya" [ref=f4e190]
+          - generic [ref=f4e191]:
+            - heading "Navya" [level=3] [ref=f4e192]
+            - paragraph [ref=f4e193]: Android Developer
+          - img "Zomato" [ref=f4e195]
+        - generic [ref=f4e196]:
+          - generic [ref=f4e197]: 7 LPA
+          - img "Karthik" [ref=f4e200]
+          - generic [ref=f4e201]:
+            - heading "Karthik" [level=3] [ref=f4e202]
+            - paragraph [ref=f4e203]: Android Developer
+          - img "AWS" [ref=f4e205]
+        - generic [ref=f4e206]:
+          - generic [ref=f4e207]: 9 LPA
+          - img "Sanjeev Sukla" [ref=f4e210]
+          - generic [ref=f4e211]:
+            - heading "Sanjeev Sukla" [level=3] [ref=f4e212]
+            - paragraph [ref=f4e213]: AI Engineer
+          - img "TechMahindra" [ref=f4e215]
+        - generic [ref=f4e216]:
+          - generic [ref=f4e217]: 5 LPA
+          - img "Sukumar Roy" [ref=f4e220]
+          - generic [ref=f4e221]:
+            - heading "Sukumar Roy" [level=3] [ref=f4e222]
+            - paragraph [ref=f4e223]: Data Scientist
+          - img "Accenture" [ref=f4e225]
+        - generic [ref=f4e226]:
+          - generic [ref=f4e227]: 8 LPA
+          - img "Jagjith Rathode" [ref=f4e230]
+          - generic [ref=f4e231]:
+            - heading "Jagjith Rathode" [level=3] [ref=f4e232]
+            - paragraph [ref=f4e233]: Machine Learning Engineer
+          - img "Deloitte" [ref=f4e235]
+        - generic [ref=f4e236]:
+          - generic [ref=f4e237]: 4 LPA
+          - img "Lipika Shah" [ref=f4e240]
+          - generic [ref=f4e241]:
+            - heading "Lipika Shah" [level=3] [ref=f4e242]
+            - paragraph [ref=f4e243]: AI Engineer
+          - img "Infosys" [ref=f4e245]
+        - generic [ref=f4e246]:
+          - generic [ref=f4e247]: 5.2 LPA
+          - img "Pramod" [ref=f4e250]
+          - generic [ref=f4e251]:
+            - heading "Pramod" [level=3] [ref=f4e252]
+            - paragraph [ref=f4e253]: ServiceNow Developer
+          - img "Microsoft" [ref=f4e255]
+        - generic [ref=f4e256]:
+          - generic [ref=f4e257]: 5.7 LPA
+          - img "Vihaana" [ref=f4e260]
+          - generic [ref=f4e261]:
+            - heading "Vihaana" [level=3] [ref=f4e262]
+            - paragraph [ref=f4e263]: Android Developer
+          - img "Google" [ref=f4e265]
+        - generic [ref=f4e266]:
+          - generic [ref=f4e267]: 6 LPA
+          - img "Navya" [ref=f4e270]
+          - generic [ref=f4e271]:
+            - heading "Navya" [level=3] [ref=f4e272]
+            - paragraph [ref=f4e273]: Android Developer
+          - img "Zomato" [ref=f4e275]
+        - generic [ref=f4e276]:
+          - generic [ref=f4e277]: 7 LPA
+          - img "Karthik" [ref=f4e280]
+          - generic [ref=f4e281]:
+            - heading "Karthik" [level=3] [ref=f4e282]
+            - paragraph [ref=f4e283]: Android Developer
+          - img "AWS" [ref=f4e285]
+      - generic [ref=f4e287]:
+        - generic [ref=f4e288]:
+          - generic [ref=f4e289]: 5 LPA
+          - img "Prachi" [ref=f4e292]
+          - generic [ref=f4e293]:
+            - heading "Prachi" [level=3] [ref=f4e294]
+            - paragraph [ref=f4e295]: HR Executive
+          - img "Paytm" [ref=f4e297]
+        - generic [ref=f4e298]:
+          - generic [ref=f4e299]: 7 LPA
+          - img "Rafiya" [ref=f4e302]
+          - generic [ref=f4e303]:
+            - heading "Rafiya" [level=3] [ref=f4e304]
+            - paragraph [ref=f4e305]: Data Scientist
+          - img "Cloudera" [ref=f4e307]
+        - generic [ref=f4e308]:
+          - generic [ref=f4e309]: 10 LPA
+          - img "Rudra Lakshmi" [ref=f4e312]
+          - generic [ref=f4e313]:
+            - heading "Rudra Lakshmi" [level=3] [ref=f4e314]
+            - paragraph [ref=f4e315]: Brand Marketing Specialist
+          - img "Gojek" [ref=f4e317]
+        - generic [ref=f4e318]:
+          - generic [ref=f4e319]: 8.2 LPA
+          - img "Andro" [ref=f4e322]
+          - generic [ref=f4e323]:
+            - heading "Andro" [level=3] [ref=f4e324]
+            - paragraph [ref=f4e325]: AI Engineer
+          - img "Cognizant" [ref=f4e327]
+        - generic [ref=f4e328]:
+          - generic [ref=f4e329]: 8.5 LPA
+          - img "Rekha" [ref=f4e332]
+          - generic [ref=f4e333]:
+            - heading "Rekha" [level=3] [ref=f4e334]
+            - paragraph [ref=f4e335]: Performance Marketer
+          - img "Salesforce" [ref=f4e337]
+        - generic [ref=f4e338]:
+          - generic [ref=f4e339]: 4.3 LPA
+          - img "Jestina" [ref=f4e342]
+          - generic [ref=f4e343]:
+            - heading "Jestina" [level=3] [ref=f4e344]
+            - paragraph [ref=f4e345]: Digital marketing specialist
+          - img "Stripe" [ref=f4e347]
+        - generic [ref=f4e348]:
+          - generic [ref=f4e349]: 8 LPA
+          - img "Sasidharan" [ref=f4e352]
+          - generic [ref=f4e353]:
+            - heading "Sasidharan" [level=3] [ref=f4e354]
+            - paragraph [ref=f4e355]: Performance Marketer
+          - img "Atlys" [ref=f4e357]
+        - generic [ref=f4e358]:
+          - generic [ref=f4e359]: 4.3 LPA
+          - img "Vanaya" [ref=f4e362]
+          - generic [ref=f4e363]:
+            - heading "Vanaya" [level=3] [ref=f4e364]
+            - paragraph [ref=f4e365]: AI Engineer
+          - img "Soft India" [ref=f4e367]
+        - generic [ref=f4e368]:
+          - generic [ref=f4e369]: 5 LPA
+          - img "Prachi" [ref=f4e372]
+          - generic [ref=f4e373]:
+            - heading "Prachi" [level=3] [ref=f4e374]
+            - paragraph [ref=f4e375]: HR Executive
+          - img "Paytm" [ref=f4e377]
+        - generic [ref=f4e378]:
+          - generic [ref=f4e379]: 7 LPA
+          - img "Rafiya" [ref=f4e382]
+          - generic [ref=f4e383]:
+            - heading "Rafiya" [level=3] [ref=f4e384]
+            - paragraph [ref=f4e385]: Data Scientist
+          - img "Cloudera" [ref=f4e387]
+        - generic [ref=f4e388]:
+          - generic [ref=f4e389]: 10 LPA
+          - img "Rudra Lakshmi" [ref=f4e392]
+          - generic [ref=f4e393]:
+            - heading "Rudra Lakshmi" [level=3] [ref=f4e394]
+            - paragraph [ref=f4e395]: Brand Marketing Specialist
+          - img "Gojek" [ref=f4e397]
+        - generic [ref=f4e398]:
+          - generic [ref=f4e399]: 8.2 LPA
+          - img "Andro" [ref=f4e402]
+          - generic [ref=f4e403]:
+            - heading "Andro" [level=3] [ref=f4e404]
+            - paragraph [ref=f4e405]: AI Engineer
+          - img "Cognizant" [ref=f4e407]
+        - generic [ref=f4e408]:
+          - generic [ref=f4e409]: 8.5 LPA
+          - img "Rekha" [ref=f4e412]
+          - generic [ref=f4e413]:
+            - heading "Rekha" [level=3] [ref=f4e414]
+            - paragraph [ref=f4e415]: Performance Marketer
+          - img "Salesforce" [ref=f4e417]
+        - generic [ref=f4e418]:
+          - generic [ref=f4e419]: 4.3 LPA
+          - img "Jestina" [ref=f4e422]
+          - generic [ref=f4e423]:
+            - heading "Jestina" [level=3] [ref=f4e424]
+            - paragraph [ref=f4e425]: Digital marketing specialist
+          - img "Stripe" [ref=f4e427]
+        - generic [ref=f4e428]:
+          - generic [ref=f4e429]: 8 LPA
+          - img "Sasidharan" [ref=f4e432]
+          - generic [ref=f4e433]:
+            - heading "Sasidharan" [level=3] [ref=f4e434]
+            - paragraph [ref=f4e435]: Performance Marketer
+          - img "Atlys" [ref=f4e437]
+        - generic [ref=f4e438]:
+          - generic [ref=f4e439]: 4.3 LPA
+          - img "Vanaya" [ref=f4e442]
+          - generic [ref=f4e443]:
+            - heading "Vanaya" [level=3] [ref=f4e444]
+            - paragraph [ref=f4e445]: AI Engineer
+          - img "Soft India" [ref=f4e447]
+  - generic [ref=f4e449]:
+    - generic [ref=f4e450]:
+      - generic [ref=f4e451]: COURSE CATEGORIES
+      - heading "Why MicronInfoTech Courses are the best?" [level=2] [ref=f4e452]
+      - paragraph [ref=f4e453]: MicronInfoTech is the only option in India for the best in class quality training and career placement.
+    - generic [ref=f4e454]:
+      - button "All Courses" [ref=f4e455] [cursor=pointer]
+      - button "Popular IT Courses 2026" [ref=f4e456] [cursor=pointer]
+      - button "Online Courses" [ref=f4e457] [cursor=pointer]
+      - button "Best For Freshers" [ref=f4e458] [cursor=pointer]
+      - button "Upgrade For Professionals" [ref=f4e459] [cursor=pointer]
+    - generic [ref=f4e460]:
+      - generic [ref=f4e461]:
+        - generic [ref=f4e462]:
+          - generic [ref=f4e463]:
+            - generic [ref=f4e464]: 60 Days
+            - generic [ref=f4e465]: Bangalore & Online
+          - generic [ref=f4e466]:
+            - heading "Data Science & Generative AI" [level=3] [ref=f4e467]
+            - paragraph [ref=f4e468]: Master modern Data Science, predictive modeling, and Generative AI workflows with live hands-on capstone projects.
+            - generic [ref=f4e469]:
+              - generic [ref=f4e470]: ✓ 100% Placement
+              - generic [ref=f4e471]: ✓ Internship
+        - generic [ref=f4e472]:
+          - generic [ref=f4e473]:
+            - generic [ref=f4e474]: "Course Fee:"
+            - generic [ref=f4e475]: ₹34,999
+          - generic [ref=f4e476]:
+            - button "Book Course" [ref=f4e477] [cursor=pointer]
+            - button "Learn More" [ref=f4e478] [cursor=pointer]
+      - generic [ref=f4e479]:
+        - generic [ref=f4e480]:
+          - generic [ref=f4e481]:
+            - generic [ref=f4e482]: 60 Days
+            - generic [ref=f4e483]: Bangalore & Online
+          - generic [ref=f4e484]:
+            - heading "Artificial Intelligence (AI)" [level=3] [ref=f4e485]
+            - paragraph [ref=f4e486]: Learn state-of-the-art AI architecture, computer vision, deep neural networks, and agentic systems directly from practitioners.
+            - generic [ref=f4e487]:
+              - generic [ref=f4e488]: ✓ 100% Placement
+              - generic [ref=f4e489]: ✓ Internship
+        - generic [ref=f4e490]:
+          - generic [ref=f4e491]:
+            - generic [ref=f4e492]: "Course Fee:"
+            - generic [ref=f4e493]: ₹24,999
+          - generic [ref=f4e494]:
+            - button "Book Course" [ref=f4e495] [cursor=pointer]
+            - button "Learn More" [ref=f4e496] [cursor=pointer]
+      - generic [ref=f4e497]:
+        - generic [ref=f4e498]:
+          - generic [ref=f4e499]:
+            - generic [ref=f4e500]: 45 Days
+            - generic [ref=f4e501]: Bangalore & Online
+          - generic [ref=f4e502]:
+            - heading "AWS Cloud Solutions Architect" [level=3] [ref=f4e503]
+            - paragraph [ref=f4e504]: Comprehensive AWS cloud masterclass designed for rapid cloud migration, architecture reliability, and official certification.
+            - generic [ref=f4e505]:
+              - generic [ref=f4e506]: ✓ 100% Placement
+              - generic [ref=f4e507]: ✓ Internship
+        - generic [ref=f4e508]:
+          - generic [ref=f4e509]:
+            - generic [ref=f4e510]: "Course Fee:"
+            - generic [ref=f4e511]: ₹19,999
+          - generic [ref=f4e512]:
+            - button "Book Course" [ref=f4e513] [cursor=pointer]
+            - button "Learn More" [ref=f4e514] [cursor=pointer]
+      - generic [ref=f4e515]:
+        - generic [ref=f4e516]:
+          - generic [ref=f4e517]:
+            - generic [ref=f4e518]: 60 Days
+            - generic [ref=f4e519]: Bangalore & Online
+          - generic [ref=f4e520]:
+            - heading "DevOps & Cloud Automation" [level=3] [ref=f4e521]
+            - paragraph [ref=f4e522]: Master end-to-end DevOps automation pipelines, container orchestration, and continuous deployment for enterprise applications.
+            - generic [ref=f4e523]:
+              - generic [ref=f4e524]: ✓ 100% Placement
+              - generic [ref=f4e525]: ✓ Internship
+        - generic [ref=f4e526]:
+          - generic [ref=f4e527]:
+            - generic [ref=f4e528]: "Course Fee:"
+            - generic [ref=f4e529]: ₹19,999
+          - generic [ref=f4e530]:
+            - button "Book Course" [ref=f4e531] [cursor=pointer]
+            - button "Learn More" [ref=f4e532] [cursor=pointer]
+      - generic [ref=f4e533]:
+        - generic [ref=f4e534]:
+          - generic [ref=f4e535]:
+            - generic [ref=f4e536]: 60 Days
+            - generic [ref=f4e537]: Bangalore & Online
+          - generic [ref=f4e538]:
+            - heading "SAP (FICO, MM, SD & ABAP)" [level=3] [ref=f4e539]
+            - paragraph [ref=f4e540]: Enterprise ERP training tailored for corporate financial analysis, logistics management, and system consulting roles.
+            - generic [ref=f4e541]:
+              - generic [ref=f4e542]: ✓ 100% Placement
+              - generic [ref=f4e543]: ✓ Internship
+        - generic [ref=f4e544]:
+          - generic [ref=f4e545]:
+            - generic [ref=f4e546]: "Course Fee:"
+            - generic [ref=f4e547]: ₹24,999
+          - generic [ref=f4e548]:
+            - button "Book Course" [ref=f4e549] [cursor=pointer]
+            - button "Learn More" [ref=f4e550] [cursor=pointer]
+      - generic [ref=f4e551]:
+        - generic [ref=f4e552]:
+          - generic [ref=f4e553]:
+            - generic [ref=f4e554]: 60 Days
+            - generic [ref=f4e555]: Bangalore & Online
+          - generic [ref=f4e556]:
+            - heading "Salesforce (Admin & Developer)" [level=3] [ref=f4e557]
+            - paragraph [ref=f4e558]: Step-by-step Salesforce Admin and Development curriculum with extensive hands-on live org projects.
+            - generic [ref=f4e559]:
+              - generic [ref=f4e560]: ✓ 100% Placement
+              - generic [ref=f4e561]: ✓ Internship
+        - generic [ref=f4e562]:
+          - generic [ref=f4e563]:
+            - generic [ref=f4e564]: "Course Fee:"
+            - generic [ref=f4e565]: ₹24,999
+          - generic [ref=f4e566]:
+            - button "Book Course" [ref=f4e567] [cursor=pointer]
+            - button "Learn More" [ref=f4e568] [cursor=pointer]
+      - generic [ref=f4e569]:
+        - generic [ref=f4e570]:
+          - generic [ref=f4e571]:
+            - generic [ref=f4e572]: 90 Days
+            - generic [ref=f4e573]: Bangalore & Online
+          - generic [ref=f4e574]:
+            - heading "Python Full Stack Development" [level=3] [ref=f4e575]
+            - paragraph [ref=f4e576]: Go from total beginner to industry-ready software engineer building production web applications and APIs.
+            - generic [ref=f4e577]:
+              - generic [ref=f4e578]: ✓ 100% Placement
+              - generic [ref=f4e579]: ✓ Internship
+        - generic [ref=f4e580]:
+          - generic [ref=f4e581]:
+            - generic [ref=f4e582]: "Course Fee:"
+            - generic [ref=f4e583]: ₹24,999
+          - generic [ref=f4e584]:
+            - button "Book Course" [ref=f4e585] [cursor=pointer]
+            - button "Learn More" [ref=f4e586] [cursor=pointer]
+      - generic [ref=f4e587]:
+        - generic [ref=f4e588]:
+          - generic [ref=f4e589]:
+            - generic [ref=f4e590]: 90 Days
+            - generic [ref=f4e591]: Bangalore & Online
+          - generic [ref=f4e592]:
+            - heading "Data Analytics & Power BI" [level=3] [ref=f4e593]
+            - paragraph [ref=f4e594]: Turn raw datasets into actionable executive insights with dashboarding, statistical reporting, and SQL analysis.
+            - generic [ref=f4e595]:
+              - generic [ref=f4e596]: ✓ 100% Placement
+              - generic [ref=f4e597]: ✓ Internship
+        - generic [ref=f4e598]:
+          - generic [ref=f4e599]:
+            - generic [ref=f4e600]: "Course Fee:"
+            - generic [ref=f4e601]: ₹24,999
+          - generic [ref=f4e602]:
+            - button "Book Course" [ref=f4e603] [cursor=pointer]
+            - button "Learn More" [ref=f4e604] [cursor=pointer]
+      - generic [ref=f4e605]:
+        - generic [ref=f4e606]:
+          - generic [ref=f4e607]:
+            - generic [ref=f4e608]: 60 Days
+            - generic [ref=f4e609]: Bangalore & Online
+          - generic [ref=f4e610]:
+            - heading "Human Resource Management (HR)" [level=3] [ref=f4e611]
+            - paragraph [ref=f4e612]: Practical HR training covering recruitment, payroll software, labor laws, onboarding, and employee engagement.
+            - generic [ref=f4e613]:
+              - generic [ref=f4e614]: ✓ 100% Placement
+              - generic [ref=f4e615]: ✓ Internship
+        - generic [ref=f4e616]:
+          - generic [ref=f4e617]:
+            - generic [ref=f4e618]: "Course Fee:"
+            - generic [ref=f4e619]: ₹24,999
+          - generic [ref=f4e620]:
+            - button "Book Course" [ref=f4e621] [cursor=pointer]
+            - button "Learn More" [ref=f4e622] [cursor=pointer]
+      - generic [ref=f4e623]:
+        - generic [ref=f4e624]:
+          - generic [ref=f4e625]:
+            - generic [ref=f4e626]: 90 Days
+            - generic [ref=f4e627]: Bangalore & Online
+          - generic [ref=f4e628]:
+            - heading "Cyber Security & Ethical Hacking" [level=3] [ref=f4e629]
+            - paragraph [ref=f4e630]: Become a defense & penetration testing specialist safeguarding modern enterprise networks and cloud servers.
+            - generic [ref=f4e631]:
+              - generic [ref=f4e632]: ✓ 100% Placement
+              - generic [ref=f4e633]: ✓ Internship
+        - generic [ref=f4e634]:
+          - generic [ref=f4e635]:
+            - generic [ref=f4e636]: "Course Fee:"
+            - generic [ref=f4e637]: ₹29,999
+          - generic [ref=f4e638]:
+            - button "Book Course" [ref=f4e639] [cursor=pointer]
+            - button "Learn More" [ref=f4e640] [cursor=pointer]
+      - generic [ref=f4e641]:
+        - generic [ref=f4e642]:
+          - generic [ref=f4e643]:
+            - generic [ref=f4e644]: 60 Days
+            - generic [ref=f4e645]: Bangalore & Online
+          - generic [ref=f4e646]:
+            - heading "AutoCAD 2D & 3D Drafting" [level=3] [ref=f4e647]
+            - paragraph [ref=f4e648]: Precision architectural and civil drafting mastery using industry-standard Autodesk AutoCAD workflows.
+            - generic [ref=f4e649]:
+              - generic [ref=f4e650]: ✓ 100% Placement
+              - generic [ref=f4e651]: ✓ Internship
+        - generic [ref=f4e652]:
+          - generic [ref=f4e653]:
+            - generic [ref=f4e654]: "Course Fee:"
+            - generic [ref=f4e655]: ₹24,999
+          - generic [ref=f4e656]:
+            - button "Book Course" [ref=f4e657] [cursor=pointer]
+            - button "Learn More" [ref=f4e658] [cursor=pointer]
+      - generic [ref=f4e659]:
+        - generic [ref=f4e660]:
+          - generic [ref=f4e661]:
+            - generic [ref=f4e662]: 60 Days
+            - generic [ref=f4e663]: Bangalore & Online
+          - generic [ref=f4e664]:
+            - heading "CATIA Mechanical CAD Design" [level=3] [ref=f4e665]
+            - paragraph [ref=f4e666]: Master mechanical product design and parametric surface modeling tailored for automobile and aerospace tier-1 suppliers.
+            - generic [ref=f4e667]:
+              - generic [ref=f4e668]: ✓ 100% Placement
+              - generic [ref=f4e669]: ✓ Internship
+        - generic [ref=f4e670]:
+          - generic [ref=f4e671]:
+            - generic [ref=f4e672]: "Course Fee:"
+            - generic [ref=f4e673]: ₹24,999
+          - generic [ref=f4e674]:
+            - button "Book Course" [ref=f4e675] [cursor=pointer]
+            - button "Learn More" [ref=f4e676] [cursor=pointer]
+      - generic [ref=f4e677]:
+        - generic [ref=f4e678]:
+          - generic [ref=f4e679]:
+            - generic [ref=f4e680]: 60 Days
+            - generic [ref=f4e681]: Bangalore & Online
+          - generic [ref=f4e682]:
+            - heading "Electrical Wiring Harness Design" [level=3] [ref=f4e683]
+            - paragraph [ref=f4e684]: Specialized electrical engineering program covering automotive harness design, EV routing, and manufacturing drawings.
+            - generic [ref=f4e685]:
+              - generic [ref=f4e686]: ✓ 100% Placement
+              - generic [ref=f4e687]: ✓ Internship
+        - generic [ref=f4e688]:
+          - generic [ref=f4e689]:
+            - generic [ref=f4e690]: "Course Fee:"
+            - generic [ref=f4e691]: ₹24,999
+          - generic [ref=f4e692]:
+            - button "Book Course" [ref=f4e693] [cursor=pointer]
+            - button "Learn More" [ref=f4e694] [cursor=pointer]
+      - generic [ref=f4e695]:
+        - generic [ref=f4e696]:
+          - generic [ref=f4e697]:
+            - generic [ref=f4e698]: 60 Days
+            - generic [ref=f4e699]: Bangalore & Online
+          - generic [ref=f4e700]:
+            - heading "Digital Marketing & Performance Ads" [level=3] [ref=f4e701]
+            - paragraph [ref=f4e702]: Comprehensive 360° digital marketing course covering SEO, high-ROAS paid advertising, email funnels, and analytics.
+            - generic [ref=f4e703]:
+              - generic [ref=f4e704]: ✓ 100% Placement
+              - generic [ref=f4e705]: ✓ Internship
+        - generic [ref=f4e706]:
+          - generic [ref=f4e707]:
+            - generic [ref=f4e708]: "Course Fee:"
+            - generic [ref=f4e709]: ₹24,999
+          - generic [ref=f4e710]:
+            - button "Book Course" [ref=f4e711] [cursor=pointer]
+            - button "Learn More" [ref=f4e712] [cursor=pointer]
+      - generic [ref=f4e713]:
+        - generic [ref=f4e714]:
+          - generic [ref=f4e715]:
+            - generic [ref=f4e716]: 60 Days
+            - generic [ref=f4e717]: Bangalore & Online
+          - generic [ref=f4e718]:
+            - heading "CCNA & Network Engineering" [level=3] [ref=f4e719]
+            - paragraph [ref=f4e720]: In-depth enterprise networking fundamentals, Cisco switch & router configuration, IP subnetting, and troubleshooting.
+            - generic [ref=f4e721]:
+              - generic [ref=f4e722]: ✓ 100% Placement
+              - generic [ref=f4e723]: ✓ Internship
+        - generic [ref=f4e724]:
+          - generic [ref=f4e725]:
+            - generic [ref=f4e726]: "Course Fee:"
+            - generic [ref=f4e727]: ₹21,999
+          - generic [ref=f4e728]:
+            - button "Book Course" [ref=f4e729] [cursor=pointer]
+            - button "Learn More" [ref=f4e730] [cursor=pointer]
+      - generic [ref=f4e731]:
+        - generic [ref=f4e732]:
+          - generic [ref=f4e733]:
+            - generic [ref=f4e734]: 60 Days
+            - generic [ref=f4e735]: Bangalore & Online
+          - generic [ref=f4e736]:
+            - heading "Software Testing & SDET Automation" [level=3] [ref=f4e737]
+            - paragraph [ref=f4e738]: Become a qualified QA Automation Engineer capable of designing automation frameworks and certifying enterprise software.
+            - generic [ref=f4e739]:
+              - generic [ref=f4e740]: ✓ 100% Placement
+              - generic [ref=f4e741]: ✓ Internship
+        - generic [ref=f4e742]:
+          - generic [ref=f4e743]:
+            - generic [ref=f4e744]: "Course Fee:"
+            - generic [ref=f4e745]: ₹22,999
+          - generic [ref=f4e746]:
+            - button "Book Course" [ref=f4e747] [cursor=pointer]
+            - button "Learn More" [ref=f4e748] [cursor=pointer]
+  - generic [ref=f4e750]:
+    - heading "Featured in News, Media & Publications" [level=2] [ref=f4e751]
+    - generic [ref=f4e752]:
+      - img "Hindustan Times" [ref=f4e754]
+      - img "Dailyhunt" [ref=f4e756]
+      - img "Republic" [ref=f4e758]
+      - img "Forbes" [ref=f4e760]
+      - img "NDTV" [ref=f4e762]
+      - img "Dainik Jagran" [ref=f4e764]
+      - img "The CEO" [ref=f4e766]
+      - img "India.com" [ref=f4e768]
+      - img "Northeast Times" [ref=f4e770]
+      - img "News18" [ref=f4e772]
+  - generic [ref=f4e774]:
+    - generic [ref=f4e775]:
+      - heading "Why MicronInfoTech is the best for you?" [level=2] [ref=f4e776]
+      - paragraph [ref=f4e777]: MicronInfoTech is the only option in India for the best in class quality training and career placement.
+    - generic [ref=f4e778]:
+      - generic [ref=f4e779]:
+        - heading "Experienced Expert Instructors" [level=3] [ref=f4e786]
+        - paragraph [ref=f4e787]: Learn directly from senior tech leads from Google & Microsoft
+      - generic [ref=f4e788]:
+        - heading "Assured 100% Placement Support" [level=3] [ref=f4e793]
+        - paragraph [ref=f4e794]: Dedicated recruitment drives with 2000+ corporate hiring partners
+      - generic [ref=f4e795]:
+        - heading "Industry focused Updated Curriculum" [level=3] [ref=f4e800]
+        - paragraph [ref=f4e801]: Cutting-edge tools and frameworks demanded by modern employers
+      - generic [ref=f4e802]:
+        - heading "Dedicated Mentor Connect" [level=3] [ref=f4e806]
+        - paragraph [ref=f4e807]: Personalized 1-on-1 doubt clearing and technical mentoring
+      - generic [ref=f4e808]:
+        - heading "Best Industry Specific Projects" [level=3] [ref=f4e815]
+        - paragraph [ref=f4e816]: Hands-on capstones that showcase genuine engineering competence
+  - generic [ref=f4e818]:
+    - generic [ref=f4e819]:
+      - generic [ref=f4e820]: 11,540+
+      - generic [ref=f4e821]: Professionals Trained
+    - generic [ref=f4e822]:
+      - generic [ref=f4e823]: 200+
+      - generic [ref=f4e824]: Experienced Trainers
+    - generic [ref=f4e825]:
+      - generic [ref=f4e826]: 110+
+      - generic [ref=f4e827]: Cities Available
+    - generic [ref=f4e828]:
+      - generic [ref=f4e829]: 566+
+      - generic [ref=f4e830]: Professional Courses
+    - generic [ref=f4e831]:
+      - generic [ref=f4e832]: 4.9 / 5
+      - generic [ref=f4e833]: Avg Rating By Students
+  - generic [ref=f4e835]:
+    - generic [ref=f4e836]:
+      - heading "How MicronInfoTech help students get place?" [level=2] [ref=f4e837]
+      - paragraph [ref=f4e838]: We have a strong network of hiring partners over the world, and there is our dedicated career placement support team that always helps students get placed better for their career and life growth.
+    - generic [ref=f4e839]:
+      - generic [ref=f4e840]:
+        - img "Connecting with Brands" [ref=f4e842]
+        - heading "Connecting with Brands" [level=3] [ref=f4e843]
+        - paragraph [ref=f4e844]: Our active network of 2000+ global brands helps students get placed with top compensation packages.
+      - generic [ref=f4e845]:
+        - img "Building Better Resume" [ref=f4e847]
+        - heading "Building Better Resume" [level=3] [ref=f4e848]
+        - paragraph [ref=f4e849]: Our successful ATS-optimized resume building guides and project portfolios ensure interview shortlists.
+      - generic [ref=f4e850]:
+        - img "Instant Doubt Solving Mentors" [ref=f4e852]
+        - heading "Instant Doubt Solving Mentors" [level=3] [ref=f4e853]
+        - paragraph [ref=f4e854]: Specialised and dedicated mentors to solve your technical coding doubts in live 1-on-1 lab sessions.
+      - generic [ref=f4e855]:
+        - img "Personalised Courses For Every Student" [ref=f4e857]
+        - heading "Personalised Courses For Every Student" [level=3] [ref=f4e858]
+        - paragraph [ref=f4e859]: Customized learning roadmaps matched to your current background and target dream career role.
+  - generic [ref=f4e861]:
+    - generic [ref=f4e862]:
+      - text: Our Training Process
+      - heading "What Makes You Job Ready?" [level=2] [ref=f4e863]
+      - paragraph [ref=f4e864]: Don't worry when you are with MicronInfoTech. Our courses and specialized 9-step training always help students get placed.
+    - generic [ref=f4e865]:
+      - generic [ref=f4e866]:
+        - heading "9-Step Placement Roadmap" [level=3] [ref=f4e867]
+        - generic [ref=f4e869]:
+          - generic [ref=f4e870]:
+            - generic [ref=f4e871]: "01"
+            - generic [ref=f4e872]: Enroll in Our Courses
+          - generic [ref=f4e873]:
+            - generic [ref=f4e874]: "02"
+            - generic [ref=f4e875]: Practical Classes
+          - generic [ref=f4e876]:
+            - generic [ref=f4e877]: "03"
+            - generic [ref=f4e878]: Real-time Projects
+          - generic [ref=f4e879]:
+            - generic [ref=f4e880]: "04"
+            - generic [ref=f4e881]: Daily Assignments
+          - generic [ref=f4e882]:
+            - generic [ref=f4e883]: "05"
+            - generic [ref=f4e884]: Certifications
+          - generic [ref=f4e885]:
+            - generic [ref=f4e886]: "06"
+            - generic [ref=f4e887]: Winning Resume Building
+          - generic [ref=f4e888]:
+            - generic [ref=f4e889]: "07"
+            - generic [ref=f4e890]: Mock Interviews
+          - generic [ref=f4e891]:
+            - generic [ref=f4e892]: "08"
+            - generic [ref=f4e893]: Attend Real Interviews
+          - generic [ref=f4e894]:
+            - generic [ref=f4e895]: ✓
+            - generic [ref=f4e896]: You Got Job! (100% GUARANTEE)
+      - generic [ref=f4e898]:
+        - heading "Industry Leading Certificates" [level=3] [ref=f4e899]
+        - paragraph [ref=f4e900]: Get certified by globally recognized cloud, software, and AI leaders.
+        - generic [ref=f4e901]:
+          - generic [ref=f4e902]:
+            - img "Google Certified" [ref=f4e903]
+            - generic [ref=f4e904]: Google Certified
+          - generic [ref=f4e906]:
+            - img "AWS Solutions Architect" [ref=f4e907]
+            - generic [ref=f4e908]: AWS Solutions Architect
+          - generic [ref=f4e910]:
+            - img "Azure Microsoft" [ref=f4e911]
+            - generic [ref=f4e912]: Azure Microsoft
+          - generic [ref=f4e914]:
+            - img "IBM Specialist" [ref=f4e915]
+            - generic [ref=f4e916]: IBM Specialist
+          - generic [ref=f4e918]:
+            - img "NASSCOM FutureSkills" [ref=f4e919]
+            - generic [ref=f4e920]: NASSCOM FutureSkills
+          - generic [ref=f4e922]:
+            - img "MicronInfoTech Course Certificate" [ref=f4e923]
+            - generic [ref=f4e924]: MicronInfoTech Course Certificate
+  - generic [ref=f4e927]:
+    - generic [ref=f4e928]:
+      - heading "Why thousands of students loves MicronInfoTech?" [level=2] [ref=f4e929]
+      - paragraph [ref=f4e930]: We are known for our best service, quality of courses and dedicated student placement support. Our way of guiding students and developing new skills is a game changer.
+    - generic [ref=f4e931]:
+      - generic [ref=f4e933]:
+        - generic [ref=f4e934]:
+          - img "Mohammed Basha" [ref=f4e935]
+          - generic [ref=f4e936]:
+            - heading "Mohammed Basha" [level=4] [ref=f4e937]
+            - paragraph [ref=f4e938]: 14.8 LPA • Lenovo
+        - paragraph [ref=f4e950]: "\"I cannot speak highly enough of MicronInfoTech. Their commitment to student success is evident in every aspect of their training program. The hands-on projects and real-world simulations prepare students for the challenges of the industry. Truly a transformative experience!\""
+      - generic [ref=f4e952]:
+        - generic [ref=f4e953]:
+          - img "Meera Nair" [ref=f4e954]
+          - generic [ref=f4e955]:
+            - heading "Meera Nair" [level=4] [ref=f4e956]
+            - paragraph [ref=f4e957]: 10 LPA • Tech Mahindra
+        - paragraph [ref=f4e969]: "\"MicronInfoTech is the epitome of excellence in industry-aligned training. The personalized attention from mentors sets them apart. The placement support provided by them is top-notch. I'm grateful for their unwavering support throughout my journey.\""
+      - generic [ref=f4e971]:
+        - generic [ref=f4e972]:
+          - img "Shaik Shaheed" [ref=f4e973]
+          - generic [ref=f4e974]:
+            - heading "Shaik Shaheed" [level=4] [ref=f4e975]
+            - paragraph [ref=f4e976]: 6.5 LPA • Aptus Data Labs
+        - paragraph [ref=f4e988]: "\"MicronInfoTech gave me practical training and interview prep that helped me land my dream role. Mentors were always available to clear doubts and guide me through every step of the placement process.\""
+    - generic [ref=f4e989]:
+      - generic [ref=f4e996]:
+        - generic [ref=f4e997]: 4.9 / 5
+        - generic [ref=f4e1002]: By Google Reviews
+      - generic [ref=f4e1003]:
+        - generic [ref=f4e1004]: Jd
+        - generic [ref=f4e1005]:
+          - generic [ref=f4e1006]: 4.9 / 5
+          - generic [ref=f4e1011]: By Justdial Verified
+      - generic [ref=f4e1012]:
+        - generic [ref=f4e1013]: S
+        - generic [ref=f4e1014]:
+          - generic [ref=f4e1015]: 4.9 / 5
+          - generic [ref=f4e1020]: By Sulekha Courses
+      - generic [ref=f4e1021]:
+        - generic [ref=f4e1022]: CS
+        - generic [ref=f4e1023]:
+          - generic [ref=f4e1024]: 4.8 / 5
+          - generic [ref=f4e1029]: By Course Suggest India
+  - generic [ref=f4e1031]:
+    - generic [ref=f4e1032]:
+      - heading "What so special about MicronInfoTech?" [level=2] [ref=f4e1033]
+      - paragraph [ref=f4e1034]: MicronInfoTech is the most trusted software training Institute in Bangalore India, providing best Job Oriented courses by top Trainers from global universities with assured Free Internships.
+    - generic [ref=f4e1035]:
+      - generic [ref=f4e1036]:
+        - generic [ref=f4e1037]:
+          - heading "Instructors from Top Global Brands" [level=3] [ref=f4e1045]
+          - paragraph [ref=f4e1046]: We have 100+ top certified and experienced Instructors from global universities and brands, providing practical software training in their field.
+        - generic [ref=f4e1047]:
+          - heading "100% Assured Better Placements" [level=3] [ref=f4e1053]
+          - paragraph [ref=f4e1054]: Partnered with hundreds of reputed firms, businesses, and multinationals to provide the best career support for our students.
+        - generic [ref=f4e1055]:
+          - heading "The Gateway to Build Skills & Career" [level=3] [ref=f4e1061]
+          - paragraph [ref=f4e1062]: More than 500+ courses in our collection designed for skill development and career boosting. Upgrade your skills and get employed with top salary packages.
+      - generic [ref=f4e1063]:
+        - generic [ref=f4e1064]: "Our Students Are Hired By 2,000+ Global Tech Giants:"
+        - generic [ref=f4e1065]:
+          - img "Microsoft" [ref=f4e1067]
+          - img "Google" [ref=f4e1069]
+          - img "Deloitte" [ref=f4e1071]
+          - img "Infosys" [ref=f4e1073]
+          - img "AWS" [ref=f4e1075]
+          - img "Paytm" [ref=f4e1077]
+          - img "Atlassian" [ref=f4e1079]
+          - img "Cloudera" [ref=f4e1081]
+          - img "Cloudflare" [ref=f4e1083]
+          - img "Cognizant" [ref=f4e1085]
+          - img "Atlys" [ref=f4e1087]
+          - img "Goibibo" [ref=f4e1089]
+          - img "Gojek" [ref=f4e1091]
+          - img "Salesforce" [ref=f4e1093]
+          - img "Stripe" [ref=f4e1095]
+          - img "Soft India" [ref=f4e1097]
+  - generic [ref=f4e1100]:
+    - generic [ref=f4e1101]:
+      - heading "Join MicronInfoTech Career Guidance Program" [level=2] [ref=f4e1102]
+      - paragraph [ref=f4e1103]: Launch your fastest career with MicronInfoTech! Our program equips you with in-demand skills to unlock insights from real-world projects and land your dream job. Join us and become a career hero!
+    - generic [ref=f4e1104]:
+      - button "ENROLL NOW" [ref=f4e1105] [cursor=pointer]
+      - 'link "Call: 7676765421" [ref=f4e1106] [cursor=pointer]':
+        - /url: tel:7676765421
+  - generic [ref=f4e1113]:
+    - heading "Frequently Asked Questions" [level=2] [ref=f4e1115]
+    - generic [ref=f4e1116]:
+      - generic [ref=f4e1117]:
+        - button "How good is MicronInfoTech?" [ref=f4e1118] [cursor=pointer]
+        - generic [ref=f4e1122]: MicronInfoTech is widely regarded as one of the best software training institutes in Bangalore and across India, and for good reason. The institute offers a wide range of career-oriented courses, all designed to meet the specific needs of today's job market. MicronInfoTech courses are known for their practical approach, expert faculty from tech giants, and guaranteed 100% placement support. Students who have completed MicronInfoTech programs consistently praise the institute for its industry-aligned syllabus and real-world applicability of skills.
+      - button "What are the courses provided by MicronInfoTech?" [ref=f4e1124] [cursor=pointer]
+      - button "How to enroll for MicronInfoTech Courses?" [ref=f4e1129] [cursor=pointer]
+      - button "Does MicronInfoTech Provide Online and Offline Training?" [ref=f4e1134] [cursor=pointer]
+  - link "Chat on WhatsApp" [ref=f4e1138] [cursor=pointer]:
+    - /url: https://wa.me/917676765421
+  - contentinfo [ref=f4e1141]:
+    - generic [ref=f4e1142]:
+      - generic [ref=f4e1143]:
+        - generic [ref=f4e1144]:
+          - heading "FOR STUDENTS" [level=4] [ref=f4e1145]
+          - list [ref=f4e1146]:
+            - listitem [ref=f4e1147]:
+              - link "Job Oriented Courses" [ref=f4e1148] [cursor=pointer]:
+                - /url: /#courses
+            - listitem [ref=f4e1149]:
+              - link "Reviews & Ratings (4.9★)" [ref=f4e1150] [cursor=pointer]:
+                - /url: /student-reviews
+            - listitem [ref=f4e1151]:
+              - link "Placement Statistics" [ref=f4e1152] [cursor=pointer]:
+                - /url: /students-placements
+            - listitem [ref=f4e1153]:
+              - link "Degree Internships" [ref=f4e1154] [cursor=pointer]:
+                - /url: /internship
+            - listitem [ref=f4e1155]:
+              - link "Meet Industry Mentors" [ref=f4e1156] [cursor=pointer]:
+                - /url: /trainer
+        - generic [ref=f4e1157]:
+          - heading "QUICK LINKS" [level=4] [ref=f4e1158]
+          - list [ref=f4e1159]:
+            - listitem [ref=f4e1160]:
+              - link "Software Courses" [ref=f4e1161] [cursor=pointer]:
+                - /url: /#courses
+            - listitem [ref=f4e1162]:
+              - link "Agency Services Hub" [ref=f4e1163] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f4e1164]:
+              - link "Digital Marketing Agency" [ref=f4e1165] [cursor=pointer]:
+                - /url: /services/digital-marketing-services-company-bangalore
+            - listitem [ref=f4e1166]:
+              - link "Web Development Services" [ref=f4e1167] [cursor=pointer]:
+                - /url: /services/web-development-services-in-india
+            - listitem [ref=f4e1168]:
+              - link "Our 6 Centers & Map" [ref=f4e1169] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f4e1170]:
+              - link "Help & Support Desk" [ref=f4e1171] [cursor=pointer]:
+                - /url: /support
+        - generic [ref=f4e1172]:
+          - heading "FOR BUSINESS" [level=4] [ref=f4e1173]
+          - list [ref=f4e1174]:
+            - listitem [ref=f4e1175]:
+              - link "Corporate Training Solutions" [ref=f4e1176] [cursor=pointer]:
+                - /url: /corporate-training
+            - listitem [ref=f4e1177]:
+              - link "Enterprise Case Studies" [ref=f4e1178] [cursor=pointer]:
+                - /url: /corporate-training/case-studies
+            - listitem [ref=f4e1179]:
+              - link "Post Free Job (Hire Talent)" [ref=f4e1180] [cursor=pointer]:
+                - /url: /post-free-jobs-hiring-employees
+            - listitem [ref=f4e1181]:
+              - link "Become a Franchise" [ref=f4e1182] [cursor=pointer]:
+                - /url: /franchise
+            - listitem [ref=f4e1183]:
+              - link "Become a Trainer / Instructor" [ref=f4e1184] [cursor=pointer]:
+                - /url: /become-a-trainer
+        - generic [ref=f4e1185]:
+          - heading "OUR COMPANY" [level=4] [ref=f4e1186]
+          - list [ref=f4e1187]:
+            - listitem [ref=f4e1188]:
+              - link "About Us & Leadership" [ref=f4e1189] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f4e1190]:
+              - link "Contact Us" [ref=f4e1191] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f4e1192]:
+              - link "Privacy Policy" [ref=f4e1193] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=f4e1194]:
+              - link "Terms & Conditions" [ref=f4e1195] [cursor=pointer]:
+                - /url: /legal/terms-conditions
+            - listitem [ref=f4e1196]:
+              - link "Cookie Policy" [ref=f4e1197] [cursor=pointer]:
+                - /url: /legal/cookie-policy
+            - listitem [ref=f4e1198]:
+              - link "Refund Policy" [ref=f4e1199] [cursor=pointer]:
+                - /url: /legal/refund-policy
+            - listitem [ref=f4e1200]:
+              - link "GDPR Policy" [ref=f4e1201] [cursor=pointer]:
+                - /url: /legal/gdpr-policy
+        - generic [ref=f4e1202]:
+          - heading "FOLLOW US" [level=4] [ref=f4e1203]
+          - paragraph [ref=f4e1204]: Get Latest Updates, Placement Drives & Job Openings directly in your inbox.
+          - generic [ref=f4e1205]:
+            - textbox "Enter your email address..." [ref=f4e1207]
+            - button "Join Newsletter" [ref=f4e1208] [cursor=pointer]
+          - generic [ref=f4e1213]:
+            - generic [ref=f4e1214]: "Call: 7676765421"
+            - generic [ref=f4e1218]: info@microninfotech.com
+            - generic [ref=f4e1223]: BTM, Marathahalli, Jayanagar, Rajajinagar, Kalyan Nagar & Chennai
+      - generic [ref=f4e1228]:
+        - paragraph [ref=f4e1229]: "© 2026 MicronInfoTech. All Rights Reserved. India's #1 Rated Software Training Institute."
+        - button "Back to top" [ref=f4e1230] [cursor=pointer]
